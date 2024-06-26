@@ -8,7 +8,7 @@ TYPE_LOOKUP = {
     "object": dict,
     "string": str,
     "boolean": bool,
-    "number": float,
+    "number": [float, int],
 }
 
 
